@@ -16,7 +16,7 @@ O deploy do projeto foi feito usando Railway.app + Vercel e pode ser encontrado 
  Login: admin@admin.com
  Senha: secret_admin
 ```
-# O banco de dados está fora do ar, impossibilitando o carregamento dos dados pelo front-end
+#### O banco de dados está fora do ar, impossibilitando o carregamento dos dados pelo front-end
 
 ## Instalando e executando o aplicativo com Docker
 
